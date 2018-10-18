@@ -15,4 +15,4 @@ Lab3: 100</br>
 Lab4: 120</br>
 Lab5: 120</br>
 
-The PDF in each file specification of the lab.
+The PDF in each file is the specification of the lab.
